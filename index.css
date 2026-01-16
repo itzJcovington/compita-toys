@@ -1,0 +1,115 @@
+.navigation-wrapper {
+  display: contents;
+}
+ 
+.navigation-container1 {
+  display: contents;
+}
+ 
+.navigation-image {
+  width: 100px;
+  object-fit: cover;
+}
+ 
+.navigation-thq-navigation-brand-accent-elm {
+  color: var(--color-primary);
+  font-style: italic;
+}
+ 
+.navigation-container2 {
+  display: none;
+}
+ 
+.navigation-container3 {
+  display: contents;
+}
+ 
+.navigation-container4 {
+  display: none;
+}
+ 
+.navigation-container5 {
+  display: contents;
+}
+
+.social-media-gallery-wrapper {
+  display: contents;
+}
+ 
+.social-media-gallery-container1 {
+  display: contents;
+}
+ 
+.social-media-gallery-container2 {
+  display: none;
+}
+ 
+.social-media-gallery-container3 {
+  display: contents;
+}
+ 
+.social-media-gallery-container4 {
+  display: none;
+}
+ 
+.social-media-gallery-container5 {
+  display: contents;
+}
+
+.footer-wrapper {
+  display: contents;
+}
+ 
+.footer-container1 {
+  display: contents;
+}
+ 
+.footer-image {
+  width: 200px;
+  object-fit: cover;
+}
+ 
+.footer-container2 {
+  display: none;
+}
+ 
+.footer-container3 {
+  display: contents;
+}
+
+.home-container1 {
+  width: 100%;
+  display: block;
+  min-height: 100vh;
+}
+ 
+.home-thq-hero-spotlight-elm {
+  height: 909px;
+  max-height: 100vh;
+  min-height: auto;
+}
+ 
+.home-video {
+  width: 100%;
+  height: 100%;
+}
+ 
+.home-thq-hero-overlay-elm {
+  width: 100%;
+  height: 100%;
+}
+ 
+.home-container2 {
+  display: none;
+}
+ 
+.home-container3 {
+  display: contents;
+}
+ 
+@media(max-width: 767px) {
+  .home-thq-about-main-img-elm {
+    width: 613px;
+    height: 329px;
+  }
+}
